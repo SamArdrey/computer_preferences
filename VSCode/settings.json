@@ -1,0 +1,9 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "files.trimTrailingWhitespace": true,
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 4,
+    "files.autoSave": "afterDelay",
+}
